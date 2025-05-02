@@ -21,7 +21,7 @@ To install **UV**, follow the instructions on the [official installation page](h
 These commands help you initialize and manage your Python projects, install/remove dependencies, and handle environment configuration.
 
 ### `uv init`
-Initialize a new project in the working directory, or in a target directory by providing a name (e.g., `uv init new_project`).
+Initialize a new project in the working directory, or in a target directory by providing a name (e.g., `uv init new_project`). If you have an existing project, use `--bare` argument.
 
 ### `uv add / remove`
 
